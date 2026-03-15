@@ -1,0 +1,92 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    background-color: rgb(143, 54, 54);
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+
+}
+
+#intro{
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 0%;
+}
+
+.text{
+    width: 60%;
+}
+.header{
+    padding: 2rem;
+    margin: 1rem;
+    text-align: center;
+
+}
+.header >.title{
+    margin-bottom: 1rem;
+
+}
+img{
+    height: 300px;;
+    width: 500px;
+   border-radius: 10px;
+   
+
+}
+
+footer{
+    background-color:  rgb(24, 22, 21);
+    font: 1em sans-serif;
+    font-size: large;
+    border-radius: 25px;
+    font-weight: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    background-size: 100px;
+    text-align: center;
+    
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: gold;
+    text-align: center;
+    font-style: italic, bold;
+    font-size: 45px;
+    border-radius: 50px;
+}
+
+.subtitle{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif BOLD;
+    background-color: rgb(25, 15, 27);
+    font-size: 150%;
+    
+}
+
+h2{
+    text-align: center;
+    font-family: fantasy;
+    background-color: rgb(190, 202, 198);
+    color: rgb(36, 50, 50);
+}
+a{
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    border: none;
+    height: 3px;
+     background-color: gold;
+     width: 60%;
+     margin: 20px auto;
+}
+
+blockquote{
+    text-align: center;
+    color: aqua;
+    margin-left: 0%;
+}
